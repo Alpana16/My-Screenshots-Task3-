@@ -1,0 +1,1 @@
+Performed data analysis using SQL subqueries to extract and analyze specific insights from the database.Focused on retrieving targeted data based on nested query conditions to support decision-making.
